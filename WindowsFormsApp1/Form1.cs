@@ -20,6 +20,7 @@ namespace WindowsFormsApp1
         private void button1_Click(Object sender, EventArgs e)
         {
             MessageBox.Show("Hello world");
+            MessageBox.Show("꿈을 꾸는 문어");
         }
     }
 }
